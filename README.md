@@ -1,5 +1,5 @@
 # Predicting Advertisement Clicks Based on Consumer Profiles
------
+
 ### Project Overview
 This project aims to predict whether a consumer will click on an online advertisement based on various features derived from the consumer's profile and their online activity. The dataset, obtained from Kaggle, includes information about online consumer purchasing habits, demographic data, and advertisement interaction data. The target of this binary classification task is to determine if a consumer will click on an ad (1) or not (0), using machine learning techniques.
 
