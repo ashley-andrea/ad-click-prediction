@@ -21,8 +21,8 @@ The dataset includes the following features:
 1. **Exploratory Data Analysis (EDA):**
 
    - **Data visualization:** Several plots were created to understand feature distributions and relationships:
-          - `distplot`, `pair plot`, and `histograms` to visualize distributions of numerical features.
-          - Analysis of relationships between the features and the target variable (`Clicked on Ad`).
+     - `distplot`, `pair plot`, and `histograms` to visualize distributions of numerical features.
+     - Analysis of relationships between the features and the target variable (`Clicked on Ad`).
    - **Handling missing values:** Missing data was identified and imputed as part of data preprocessing.
 
 2. **Custom Data Transformations:**
